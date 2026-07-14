@@ -16,28 +16,6 @@ Software Engineer building production-grade web and mobile applications, backed 
 - 🧪 Rigorous testing — unit, integration, E2E, and stress testing (k6) against real production data
 - 🤖 Comfortable working with AI coding agents (Claude Code and similar) as part of my workflow
 - 🤝 Open to remote opportunities and collaborations
-
----
-
-# Hi, I'm Alberto Martinez 👋
-
-**Software Engineer** · NestJS · TypeScript · React · Flutter · Web3
-
----
-
-## About Me
-
-Software Engineer building production-grade web and mobile applications, backed by solid backend systems and Web3 infrastructure. I design REST APIs, relational data models, and authentication layers that hold up under real usage, backed by automated testing before anything ships.
-
-- 🎓 Computer Engineering · Universidad Rafael Urdaneta
-- 🔐 Auth systems: JWT rotation, refresh token families, Redis blacklisting, RBAC
-- 🐳 Docker, CI/CD, and production deployments (Railway, Vercel, GitHub Actions)
-- 📱 Mobile development with Flutter + Riverpod
-- ⛓️ Web3 / cross-chain infrastructure across EVM and Solana, validated on live mainnet
-- 🧪 Rigorous testing — unit, integration, E2E, and stress testing (k6) against real production data
-- 🤖 Comfortable working with AI coding agents (Claude Code and similar) as part of my workflow
-- 🤝 Open to remote opportunities and collaborations
-
 ---
 
 ## Tech Stack
