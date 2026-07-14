@@ -6,28 +6,16 @@
 
 ## About Me
 
-Software Engineer building production systems across backend, mobile, and Web3 — from ERPs and payment platforms running for real businesses, to cross-chain protocol validators tested against live mainnet.
+Software Engineer building production-grade web and mobile applications, backed by solid backend systems and Web3 infrastructure. I design REST APIs, relational data models, and authentication layers that hold up under real usage, backed by automated testing before anything ships.
 
 - 🎓 Computer Engineering · Universidad Rafael Urdaneta
-- 🏗️ Backend systems with NestJS, TypeScript, PostgreSQL, and Prisma — auth, transactions, RBAC, audit trails
-- 📱 Cross-platform mobile apps with Flutter + Riverpod
-- ⛓️ Web3 / cross-chain infra across EVM and Solana, validated on live mainnet
+- 🔐 Auth systems: JWT rotation, refresh token families, Redis blacklisting, RBAC
+- 🐳 Docker, CI/CD, and production deployments (Railway, Vercel, GitHub Actions)
+- 📱 Mobile development with Flutter + Riverpod
+- ⛓️ Web3 / cross-chain infrastructure across EVM and Solana, validated on live mainnet
 - 🧪 Rigorous testing — unit, integration, E2E, and stress testing (k6) against real production data
+- 🤖 Comfortable working with AI coding agents (Claude Code and similar) as part of my workflow
 - 🤝 Open to remote opportunities and collaborations
-
----
-
-## Featured Projects
-
-**[PerSenso](https://github.com/betomartinez13)** — Full-stack ERP + e-commerce for a live retail business. NestJS/Prisma/PostgreSQL backend with JWT rotation + Redis blacklist, FIFO inventory batching, financial snapshots, and a universal entity trace resolver. Next.js storefront + admin panel.
-
-**[emelven-stock](https://github.com/betomartinez13/emelven-stock)** — Warehouse management system for a manufacturing company (thesis project). NestJS + React, pessimistic-lock transactions, RBAC, full audit log. 243 automated tests, 89% coverage.
-
-**[eco-circuit-breaker](https://github.com/betomartinez13/eco-circuit-breaker)** — Production E2E validator for a cross-chain protocol. Publishes real intents across 5 blockchains every 5 minutes, verifies fulfillment/proving via public RPCs only.
-
-**[testereco](https://github.com/betomartinez13)** — Solo-built foundation for the above: 120+ real mainnet transactions across 8 chains (EVM + Solana), later evolved into eco-circuit-breaker.
-
-**Glacier** — Flutter frontend for a full-stack ordering app with a dual-currency loyalty system, integrated with an NestJS/Odoo backend.
 
 ---
 
